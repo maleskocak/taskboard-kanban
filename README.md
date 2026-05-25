@@ -1,5 +1,10 @@
 # TaskBoard Kanban
 
+🔗 **Live Demo:** [https://taskboard-sigma-fawn.vercel.app](https://taskboard-sigma-fawn.vercel.app)
+
+📦 **Repository:** [github.com/maleskocak/taskboard-kanban](https://github.com/maleskocak/taskboard-kanban)
+
+
 A polished drag-and-drop Kanban board built with React 18 via CDN — no build step, no npm required. Features a pink/rose dark theme with smooth animations.
 
 ## Features
